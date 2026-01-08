@@ -1,5 +1,4 @@
 ![Smart Attendance App](app_demo.png.jpg)
-<img src="app_demo.png.jpg" width="600"/>
 # Smart Attendance System 🎯
 
 Face Recognition based Smart Attendance System built using **Python** and **Streamlit**.
