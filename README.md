@@ -1,4 +1,4 @@
-
+![Smart Attendance App](app demo.png)
 # Smart Attendance System 🎯
 
 Face Recognition based Smart Attendance System built using **Python** and **Streamlit**.
